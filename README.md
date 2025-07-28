@@ -1,6 +1,6 @@
 # Adobe India Hackathon 2025 - Challenge 1b
 
-This project implements a persona-driven document intelligence system for Challenge 1b of the Adobe India Hackathon 2025, aligning with the theme "Connect What Matters — For the User Who Matters." It processes PDF collections to extract and prioritize sections based on user personas and tasks, producing structured JSON outputs.
+This project implements a persona-driven document intelligence system for Challenge 1a of the Adobe India Hackathon 2025, aligning with the theme "Connect What Matters — For the User Who Matters." It processes PDF collections to extract and prioritize sections based on user personas and tasks, producing structured JSON outputs.
 
 ## Prerequisites
 
